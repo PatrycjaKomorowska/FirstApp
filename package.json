@@ -12,10 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "normalize.css": "^8.0.1",
     "parcel": "^2.10.3"
   },
   "devDependencies": {
+    "@parcel/packager-raw-url": "^2.10.3",
+    "@parcel/transformer-webmanifest": "^2.10.3",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5"
   }
